@@ -1,16 +1,15 @@
-<<<<<<< HEAD
 # OpenFantasia Basic Edition
 小説(シナリオ)をWebページ上で創作・公開できるサーバーインストール型プライベートSaaSプラットフォーム
 
-# 概要
+## 概要
 
 
-## <要件定義>
+### <要件定義>
 - 小説執筆ソフトのような機能をWebアプリとして実現する。
 - 作成したシナリオ、本文をURLなどで公開できるようにする。(小説家になろうのように小説・シナリオを公開できる)
 - ソースをOSSとして公開し、サーバーにインストールして利用可能にする(Owncloud、WPのようなスタイル)
 
-## <機能>
+### <機能>
 - ホーム
     - 小説(シナリオ)ごとの概要を表示
 - 執筆機能
@@ -31,8 +30,6 @@
     - ゲスト向け購読ページ(小説家になろうのような)
     - 下書き(非公開)シナリオURL・パスワード共有機能
 
-### [デザイン案(外部サイト)](https://cacoo.com/diagrams/q6ldwevkH4O1hSKt#37479)
-=======
-# open-fantasia-basic
-OpenFantasia Basic Edition is easy SaaS platforms for story making.
->>>>>>> parent of 6bf8841... README.md更新
+## UIデザイン
+[デザイン案(外部サイト)](https://cacoo.com/diagrams/q6ldwevkH4O1hSKt#37479)
+

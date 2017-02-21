@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'opbasic',
-	'password' => 'opbasic',
-	'database' => 'opbasic',
+	'hostname' => 'localhost', //DBサーバーホスト名
+	'username' => 'opbasic', //DBユーザ名(root非推奨)
+	'password' => 'opbasic', //DBパスワード(gitに上げないよう注意！)
+	'database' => 'opbasic', //DB名
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

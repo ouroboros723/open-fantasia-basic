@@ -31,6 +31,6 @@
     - ゲスト向け購読ページ(小説家になろうのような)
     - 下書き(非公開)シナリオURL・パスワード共有機能
 
-## UIデザイン
-[デザイン案(外部サイト)](https://cacoo.com/diagrams/q6ldwevkH4O1hSKt#37479)
-
+## その他
+- [UIデザイン案(外部サイト)](https://cacoo.com/diagrams/q6ldwevkH4O1hSKt#37479)
+- [資料(外部サイト)](https://storage.draboros.net/public.php?service=files&t=e8bd50c5e5d961304cd658f29d0b0e8b)
